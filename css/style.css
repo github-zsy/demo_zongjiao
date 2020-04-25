@@ -19,7 +19,7 @@ header,
 }
 
 #fo {
-    /*background: url("/picture/道教主页.jpg")no-repeat center center fixed;*/
+    /*background: url("/picture/佛教主页.jpg")no-repeat center center fixed;*/
     background-image: url(../picture/fo1.jpg);
     -webkit-background-size: cover; /* 针对Chrome, Safari, Edge等浏览器 */
     -moz-background-size: cover;    /* 针对Firefox浏览器 */
@@ -46,7 +46,7 @@ header,
 }
 
 #yisilan {
-    /*background: url("/picture/道教主页.jpg")no-repeat center center fixed;*/
+    /*background: url("/picture/伊斯兰教主页.jpg")no-repeat center center fixed;*/
     background-image: url(../picture/yisilan2.jpg);
     -webkit-background-size: cover; /* 针对Chrome, Safari, Edge等浏览器 */
     -moz-background-size: cover;    /* 针对Firefox浏览器 */
